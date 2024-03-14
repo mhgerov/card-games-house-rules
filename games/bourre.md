@@ -3,6 +3,7 @@ title: Bourré
 layout: default
 parent: Games
 ---
+# Bourré
 
 ## Introduction
 Best with 7 players. At least 5 is necessary
