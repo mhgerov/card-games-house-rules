@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Card Games House Rules
+description: Repo for games played by mhgerov
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://mhgerov.github.io/card-games-house-rules
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://github.com/mhgerov/card-games-house-rules
