@@ -73,5 +73,14 @@ If the taker makes 6+ points, they win the amount from each defender, and vice v
 **Special**
 - *Cappotto*: taker wins or loses all tricks - doubled
 - *Stramazzo*: losers have less than a point but one at least one trick - tripled
+
+## (Optional) *Spazzatura*
+
+If everyone passes, a round of *Spazzatura* is played.
+The goal is to when as few points as possible.
+Winner of the last trick takes the *monte*.
+
+Whoever takes the most points pays the others ₤1.
+*Cappotto* and *Stramazzo* apply.
 ## References
 - [Pagat: Calabresella / Terziglio](https://www.pagat.com/tressette/calabresella.html)
