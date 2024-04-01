@@ -4,6 +4,6 @@ layout: default
 parent: Recommendations
 ---
 ## 4 Players
-- [Tichu](/games/tichu.html)
+- [Tichu]({{ site.baseurl }}/games/tichu.html)
 
 ## 5 Players
