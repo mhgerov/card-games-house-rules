@@ -6,6 +6,7 @@ parent: Recommendations
 ## 3 Players
 - [Calabressella]({{ site.baseurl }}/games/calabressella.html)
 - [Cassino]({{ site.baseurl }}/games/cassino.html)
+- [Grosstarock]({{ site.baseurl }}/games/grosstarock.html)
 
 ## 4 Players
 - [Cassino]({{ site.baseurl }}/games/cassino.html)
